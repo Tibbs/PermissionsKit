@@ -14,7 +14,7 @@ The convenient wrapper on macOS permissions API. You can check and request user 
   s.social_media_url = 'https://twitter.com/Krivoblotsky'
 
   s.platform = :osx
-  s.osx.deployment_target = "10.13"
+  s.osx.deployment_target = "10.10"
 
   s.source_files = 'PermissionsKit/Public/**/*', 'PermissionsKit/Private/**/*', 'PermissionsKit/PermissionsKit.h'
 
